@@ -2,7 +2,7 @@ function MELTRATE, T, DDF
 
 ;+
 ; NAME: MELTRATE.PRO
-;  Andreas Bauder   26-may-23   (bauder@vaw.baum.ethz.ch)
+;  Andreas Bauder   25-may-23   (bauder@vaw.baug.ethz.ch)
 ;
 ; calculates the meltrate based on temperature and  a degree day factor
 ;
